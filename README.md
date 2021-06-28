@@ -1,3 +1,4 @@
+اعمل نسخ للأوامر انسخ امر ب أمر
 # -pkg install php
 # -ls
 # -pkg install php
